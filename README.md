@@ -61,9 +61,9 @@ Uczestnicy poznają podstawowe koncepcje sieciowe w Kubernetes, w tym różne ty
 
 #### 7: Zarządzanie danymi aplikacji i integracja z chmurą 31.01.2025
 
-Ostatni tutorial w serii będzie koncentrował się na zarządzaniu danymi w Kubernetes, w tym na pracy z trwałymi wolumenami (**PersistentVolumes**) oraz roszczeniami na wolumeny (**PersistentVolumeClaims**). Dodatkowo, uczestnicy zapoznają się z podstawami integracji z chmurą, w tym wdrażaniem aplikacji na platformie **Google Kubernetes Engine (GKE)**.
+Ostatni tutorial w serii będzie koncentrował się na zarządzaniu danymi w Kubernetes, w tym na pracy z trwałymi wolumenami (**PersistentVolumes**) oraz roszczeniami na wolumeny (**PersistentVolumeClaims**).
 
-**Tematy:** PersistentVolumes, PersistentVolumeClaims, GKE, integracja z chmurą.
+**Tematy:** PersistentVolumes, PersistentVolumeClaims.
 
 ---
 
